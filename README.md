@@ -2,6 +2,7 @@
 
 Participant Feedback
 
+
 ## Participant 1
 
 #### Trial 1: Stereo Camera with VR
@@ -16,7 +17,7 @@ I would have done better if I'd been more aware of the little map with obstacles
 
 Better resolution, particularly when grabbing and stacking the cylinders (hard to tell where the grasper is relative to the cylinders)
 
-----------------------------------------
+
 ## Participant 2
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -35,7 +36,7 @@ Like having the mini-map stay in constant location rather than moving with view
 
 Only VR depth perception allowed positioning of the containers correctly first time. With the other cameras I relied on contact and iterative movement for accurate positioning. If this is not taken into account the positioning data alone may not be as useful.
 
-----------------------------------------
+
 ## Participant 3
 
 #### Trial 1: 360 Degree Camera
@@ -54,7 +55,7 @@ best depth perception but the objects were of unrealistic scales looking smaller
 
 seems like a very interesting and promising system. good luck!
 
-----------------------------------------
+
 ## Participant 4
 
 #### Trial 1: Stereo Camera with VR
@@ -73,7 +74,7 @@ Camera tilt with head movements
 
 no
 
-----------------------------------------
+
 ## Participant 5
 
 #### Trial 1: 360 Degree Camera
@@ -86,7 +87,7 @@ no
 
 my muscle memory wanted to use the second analogue stick to pan the camera, but that's just a result of playing video games
 
-----------------------------------------
+
 ## Participant 6
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -101,7 +102,7 @@ some indication of distance to objects/areas
 
 I don't think I used the picture-in-picture at all for this one. Not distracting, but felt more confident locating objects/judging distances
 
-----------------------------------------
+
 ## Participant 7
 
 #### Trial 1: Stereo Camera with VR
@@ -120,7 +121,7 @@ Stereo vision for depth information. Maybe a representation of the arm to show c
 
 A hybrid of 360 for navigation and stereo for manipulation would have worked well for me, as sickness effects were only apparent if I was moving the mobile platform at the same time as moving my head. 
 
-----------------------------------------
+
 ## Participant 8
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -134,7 +135,7 @@ An indicator of how close the arm is to singularity might have been useful.
 
 Significantly easier to pick up/manipulate the barrels than the other conditions, but moving around felt trickier and caused slight nausea.
 
-----------------------------------------
+
 ## Participant 9
 
 #### Trial 1: 360 Degree Camera
@@ -153,7 +154,7 @@ camera control could be placed somewhere else or had another system to control
 
 Idea: camera control using spectacle/head movement & control using computer 
 
-----------------------------------------
+
 ## Participant 10
 
 #### Trial 1: 360 Degree Camera
@@ -172,7 +173,7 @@ The 3D vision was a lot better and easier to see how far the arm was reached out
 
 The stereo camera was by far the best, but needs to be working in unison with head movements to avoid sickness 
 
-----------------------------------------
+
 ## Participant 11
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -185,7 +186,7 @@ The stereo camera was by far the best, but needs to be working in unison with he
 
 Lots of eye strain due to poor image quality and difficulty with depth perception. Very frustrating at times
 
-----------------------------------------
+
 ## Participant 12
 
 #### Trial 1: Stereo Camera with VR
@@ -204,7 +205,7 @@ I think VR was easier to control/navigate the robot
 
 I felt the immersion with VR made it easier to control the robot
 
-----------------------------------------
+
 ## Participant 13
 
 #### Trial 1: Stereo Camera with VR
@@ -219,7 +220,7 @@ depth perception was hard from one point of view
 
 apart from lag and blur image, the system was easy to use
 
-----------------------------------------
+
 ## Participant 14
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -238,7 +239,7 @@ motion sickness was the worst when using this system. also found it hard to judg
 
 the slam map in the corner was very useful but could do with being 360 or remembering positions when hidden from camera
 
-----------------------------------------
+
 ## Participant 15
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -256,7 +257,7 @@ Some feedback from the robot on the stacking task at the end of the test would h
 
 Time delay was not as difficult to adjust to as I initially though. The shake on the stereo cameral felt like it was more than the other two. Controller took a little getting used to but it was not difficult to use.
 
-----------------------------------------
+
 ## Participant 16
 
 #### Trial 1: 360 Degree Camera
@@ -270,7 +271,7 @@ Some way of perceiving depth/ where the gripper is hovering over? A laser pointi
 #### Trial 3: Stereo Camera with VR
 
 
-----------------------------------------
+
 ## Participant 17
 
 #### Trial 1: 360 Degree Camera
@@ -289,7 +290,7 @@ nothing in particular
 
 The experiment was a really fun one!
 
-----------------------------------------
+
 ## Participant 18
 
 #### Trial 1: Stereo Camera with VR
@@ -302,7 +303,7 @@ spinning on the chair reduced the dizziness
 #### Trial 3: Camera with Manual Pan-tilt
 
 
-----------------------------------------
+
 ## Participant 19
 
 #### Trial 1: Stereo Camera with VR
@@ -316,7 +317,7 @@ Arm was blocking the camera view
 
 The delay made it much harder to navigate 
 
-----------------------------------------
+
 ## Participant 20
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -331,7 +332,7 @@ initially found it challenging to get feel the 3D perspective, took a few iterat
 
 very realistic and attractive interface. feels intuitive with the head movement and judging position. need breaks from continuous use to limit eye and neck strain.
 
-----------------------------------------
+
 ## Participant 21
 
 #### Trial 1: 360 Degree Camera
@@ -349,7 +350,7 @@ It would be nice to  be able to switch to the camera on gripper to see what and 
 
 more obstacles? 
 
-----------------------------------------
+
 ## Participant 22
 
 #### Trial 1: Stereo Camera with VR
@@ -363,7 +364,7 @@ Maybe add an additional camera(or a depth camera) in the front of the vehicle
 #### Trial 3: Camera with Manual Pan-tilt
 
 
-----------------------------------------
+
 ## Participant 23
 
 #### Trial 1: 360 Degree Camera
@@ -386,7 +387,7 @@ Looking down allows vision to be blacked out rather than limiting movement
 
 Switching controller type ie. joystick/keyboard may prevent people learning the route to prevent subsequent attempt being easier.
 
-----------------------------------------
+
 ## Participant 24
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -401,7 +402,7 @@ Being able to move the camera in more directions (ie to assess the distance betw
 
 Slight lag in robot response, but very impressive overall
 
-----------------------------------------
+
 ## Participant 25
 
 #### Trial 1: Stereo Camera with VR
@@ -426,7 +427,7 @@ Delay made it quite difficult.
 The fact the vehicle and the robot can both move in xy could be overkill except for in niche scenarios where the robot wouldn't be able to pivot/precise movements are required. 
 Overall very impressed with the system's usability.
 
-----------------------------------------
+
 ## Participant 26
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -445,7 +446,7 @@ Shaky camera. Touch alert. various angle cameras
 
 system need to be a lot more responsive without delays
 
-----------------------------------------
+
 ## Participant 27
 
 #### Trial 1: 360 Degree Camera
@@ -460,7 +461,7 @@ Maybe adjustable POV e.g. slightly movable camera as I felt like I needed to loo
 
 Definitely the easiest view for driving and second best for positioning objects. Stereo wins on positioning but not as easy to drive with
 
-----------------------------------------
+
 ## Participant 28
 
 #### Trial 1: 360 Degree Camera
@@ -475,7 +476,7 @@ a camera mounted low such that you can see when the grasped object is touching t
 
 the camera should not shake so much
 
-----------------------------------------
+
 ## Participant 29
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -494,7 +495,7 @@ There is some fatigue at the third trial. If this was done first it might be eas
 
 VR method - was hard to see the floor near the robot but could be just familiarity.
 
-----------------------------------------
+
 ## Participant 30
 
 #### Trial 1: Stereo Camera with VR
@@ -508,7 +509,7 @@ If the Enable drive and Enable Arm both the shoulder button or the trigger butto
 #### Trial 3: Camera with Manual Pan-tilt
 
 
-----------------------------------------
+
 ## Participant 31
 
 #### Trial 1: Stereo Camera with VR
@@ -528,7 +529,7 @@ The lag in the images was a bit annoying
 It was very difficult to perceive the depth to grasp/release the objects
 I did not feel the need to use the map that was overlayed
 
-----------------------------------------
+
 ## Participant 32
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -543,7 +544,7 @@ Thought it worked pretty well despite the lag, but found moving in the z-axis re
 
 Actually had confidence in where the end effector of the robot arm was, which I didn't in any of the other trials. The first 30 seconds felt really weird, but after that I didn't notice the dizziness so much. 
 
-----------------------------------------
+
 ## Participant 33
 
 #### Trial 1: 360 Degree Camera
@@ -557,7 +558,7 @@ I think the camera placement was the biggest problem. It was too high. The delay
 
 Camera placement could have been lower.
 
-----------------------------------------
+
 ## Participant 34
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -572,7 +573,7 @@ more intuitive controller, camera view from the tool
 
 same as previous, but would benefit from higher res camera with lower latency
 
-----------------------------------------
+
 ## Participant 35
 
 #### Trial 1: Stereo Camera with VR
@@ -587,7 +588,7 @@ Deepness was the hardest part (rely on arm shadow)
 
 Require an additional camera to better know the location of the arm vs the object
 
-----------------------------------------
+
 ## Participant 36
 
 #### Trial 1: 360 Degree Camera
@@ -606,7 +607,7 @@ I loved it
 
 great experiment!
 
-----------------------------------------
+
 ## Participant 37
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -618,7 +619,7 @@ great experiment!
 #### Trial 3: Stereo Camera with VR
 
 
-----------------------------------------
+
 ## Participant 38
 
 #### Trial 1: Stereo Camera with VR
@@ -633,7 +634,7 @@ Very difficult to judge perspective. I did keep getting up/down confused (albeit
 
 Better than the PTZ camera, worse than the other VR system. Picture was very grainy, which was quite annoying. Colour resolution was the best of the three (which helped to identify objects more easily). Depth perception better than the PTZ camera but not quite as good as the other VR system.
 
-----------------------------------------
+
 ## Participant 39
 
 #### Trial 1: 360 Degree Camera
@@ -647,7 +648,7 @@ Proximity alerts
 
 Second camera for judging height of barrels when placing down
 
-----------------------------------------
+
 ## Participant 40
 
 #### Trial 1: 360 Degree Camera
@@ -666,7 +667,7 @@ This interface is the easiest way to complete the task among three experiments. 
 
 Using the gamepad controller to control the robotic arm in a specific direction was a good option for me. If the VR controller is used instead (in Paul's experiment), it would be a way more difficult as there will be a lot of singularities occur which frustrated me a lot. 
 
-----------------------------------------
+
 ## Participant 41
 
 #### Trial 1: Camera with Manual Pan-tilt
@@ -681,7 +682,7 @@ Lag is a bit too evident and can result uncomfortable
 
 Brightness of the camera was excessive, image trembling a lot and depth perception was very difficult, excessive lag
 
-----------------------------------------
+
 ## Participant 42
 
 #### Trial 1: Stereo Camera with VR
@@ -696,4 +697,3 @@ Hard to judge depth perception
 
 Some minor issues with depth perception. Spatial awareness was more difficult, especially when turning the robot and navigating between obstacles.
 
-----------------------------------------
